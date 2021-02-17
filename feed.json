@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Channelled Today",
     "description": "",
-    "home_page_url": "https://channelled.today",
-    "feed_url": "https://channelled.today/feed.json",
+    "home_page_url": "http://channelled.today",
+    "feed_url": "http://channelled.today/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mark Ellul"
