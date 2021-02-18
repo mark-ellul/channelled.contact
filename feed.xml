@@ -3,10 +3,26 @@
     <title>Channelled Today</title>
     <link href="http://channelled.today/feed.xml" rel="self" />
     <link href="http://channelled.today" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2021-02-18T22:49:21+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>http://channelled.today</id>
 
+    <entry>
+        <title>Identifying and Transforming the Inner Critic by Si Si</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.today/identifying-and-transforming-the-inner-critic-by-si-si/"/>
+        <id>http://channelled.today/identifying-and-transforming-the-inner-critic-by-si-si/</id>
+
+        <updated>2021-02-18T22:49:21+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Kn_KBJkL370" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
 </feed>
