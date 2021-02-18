@@ -3,12 +3,33 @@
     <title>Channelled Today</title>
     <link href="http://channelled.today/feed.xml" rel="self" />
     <link href="http://channelled.today" />
-    <updated>2021-02-18T22:49:21+01:00</updated>
+    <updated>2021-02-18T23:00:21+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>http://channelled.today</id>
 
+    <entry>
+        <title>Purpose</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.today/purpose/"/>
+        <id>http://channelled.today/purpose/</id>
+
+        <updated>2021-02-18T23:00:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Identifying and Transforming the Inner Critic by Si Si</title>
         <author>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "http://channelled.today/purpose/",
+            "url": "http://channelled.today/purpose/",
+            "title": "Purpose",
+            "summary": "The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. ",
+            "content_html": "<p class=\"align-center\">The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. </p>\n<p> </p>",
+            "author": {
+                "name": "Mark Ellul"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-18T23:00:21+01:00",
+            "date_modified": "2021-02-18T23:00:21+01:00"
+        },
+        {
             "id": "http://channelled.today/identifying-and-transforming-the-inner-critic-by-si-si/",
             "url": "http://channelled.today/identifying-and-transforming-the-inner-critic-by-si-si/",
             "title": "Identifying and Transforming the Inner Critic by Si Si",
