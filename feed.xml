@@ -3,12 +3,28 @@
     <title>Channelled Today</title>
     <link href="http://channelled.today/feed.xml" rel="self" />
     <link href="http://channelled.today" />
-    <updated>2021-02-18T23:00:21+01:00</updated>
+    <updated>2021-02-22T21:16:15+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>http://channelled.today</id>
 
+    <entry>
+        <title>Reshaping Negativity</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.today/reshaping-negativity/"/>
+        <id>http://channelled.today/reshaping-negativity/</id>
+
+        <updated>2021-02-22T21:16:15+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/P1QB9r86vqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Purpose</title>
         <author>
