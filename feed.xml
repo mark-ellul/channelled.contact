@@ -3,7 +3,7 @@
     <title>Channelled Today</title>
     <link href="http://channelled.today/feed.xml" rel="self" />
     <link href="http://channelled.today" />
-    <updated>2021-02-22T21:16:15+01:00</updated>
+    <updated>2021-02-23T08:40:20+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
@@ -59,6 +59,22 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Kn_KBJkL370" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hylah talks about Channelling</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.today/hylah-talks-about-channelling/"/>
+        <id>http://channelled.today/hylah-talks-about-channelling/</id>
+
+        <updated>2021-02-23T08:40:20+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/XlXAPi9t4NE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
