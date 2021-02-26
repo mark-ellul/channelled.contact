@@ -3,12 +3,28 @@
     <title>Channelled Today</title>
     <link href="http://channelled.today/feed.xml" rel="self" />
     <link href="http://channelled.today" />
-    <updated>2021-02-23T08:40:20+01:00</updated>
+    <updated>2021-02-26T09:55:26+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>http://channelled.today</id>
 
+    <entry>
+        <title>Feeling Guilty or Selfish by not Acting &amp; Hybrid Program</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.today/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/"/>
+        <id>http://channelled.today/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/</id>
+
+        <updated>2021-02-26T09:55:26+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/j2TzZu-xnCc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Reshaping Negativity</title>
         <author>
