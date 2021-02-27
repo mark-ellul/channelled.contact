@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://channelled.today/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://channelled.contact/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://channelled.today/</loc>
+<loc>http://channelled.contact/</loc>
 </url>
 <url>
-<loc>http://channelled.today/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/</loc>
+<loc>http://channelled.contact/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/</loc>
 <lastmod>2021-02-26T09:55:26+01:00</lastmod>
 </url>
 <url>
-<loc>http://channelled.today/hylah-talks-about-channelling/</loc>
+<loc>http://channelled.contact/hylah-talks-about-channelling/</loc>
 <lastmod>2021-02-23T08:40:20+01:00</lastmod>
 </url>
 <url>
-<loc>http://channelled.today/identifying-and-transforming-the-inner-critic-by-si-si/</loc>
+<loc>http://channelled.contact/identifying-and-transforming-the-inner-critic-by-si-si/</loc>
 <lastmod>2021-02-18T22:49:21+01:00</lastmod>
 </url>
 <url>
-<loc>http://channelled.today/purpose/</loc>
+<loc>http://channelled.contact/purpose/</loc>
 <lastmod>2021-02-18T23:00:21+01:00</lastmod>
 </url>
 <url>
-<loc>http://channelled.today/reshaping-negativity/</loc>
+<loc>http://channelled.contact/reshaping-negativity/</loc>
 <lastmod>2021-02-22T21:16:15+01:00</lastmod>
 </url>
 </urlset>

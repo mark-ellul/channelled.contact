@@ -1,17 +1,17 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Channelled Today",
+    "title": "Channelled Contact",
     "description": "",
-    "home_page_url": "http://channelled.today",
-    "feed_url": "http://channelled.today/feed.json",
+    "home_page_url": "http://channelled.contact",
+    "feed_url": "http://channelled.contact/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mark Ellul"
     },
     "items": [
         {
-            "id": "http://channelled.today/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/",
-            "url": "http://channelled.today/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/",
+            "id": "http://channelled.contact/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/",
+            "url": "http://channelled.contact/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/",
             "title": "Feeling Guilty or Selfish by not Acting &amp; Hybrid Program",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/j2TzZu-xnCc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
@@ -23,8 +23,8 @@
             "date_modified": "2021-02-26T09:55:26+01:00"
         },
         {
-            "id": "http://channelled.today/reshaping-negativity/",
-            "url": "http://channelled.today/reshaping-negativity/",
+            "id": "http://channelled.contact/reshaping-negativity/",
+            "url": "http://channelled.contact/reshaping-negativity/",
             "title": "Reshaping Negativity",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/P1QB9r86vqA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
@@ -36,8 +36,8 @@
             "date_modified": "2021-02-22T21:16:15+01:00"
         },
         {
-            "id": "http://channelled.today/purpose/",
-            "url": "http://channelled.today/purpose/",
+            "id": "http://channelled.contact/purpose/",
+            "url": "http://channelled.contact/purpose/",
             "title": "Purpose",
             "summary": "The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. ",
             "content_html": "<p class=\"align-center\">The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. </p>\n<p> </p>",
@@ -50,8 +50,8 @@
             "date_modified": "2021-02-18T23:00:21+01:00"
         },
         {
-            "id": "http://channelled.today/identifying-and-transforming-the-inner-critic-by-si-si/",
-            "url": "http://channelled.today/identifying-and-transforming-the-inner-critic-by-si-si/",
+            "id": "http://channelled.contact/identifying-and-transforming-the-inner-critic-by-si-si/",
+            "url": "http://channelled.contact/identifying-and-transforming-the-inner-critic-by-si-si/",
             "title": "Identifying and Transforming the Inner Critic by Si Si",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Kn_KBJkL370\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
@@ -63,8 +63,8 @@
             "date_modified": "2021-02-18T22:49:21+01:00"
         },
         {
-            "id": "http://channelled.today/hylah-talks-about-channelling/",
-            "url": "http://channelled.today/hylah-talks-about-channelling/",
+            "id": "http://channelled.contact/hylah-talks-about-channelling/",
+            "url": "http://channelled.contact/hylah-talks-about-channelling/",
             "title": "Hylah talks about Channelling",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XlXAPi9t4NE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
