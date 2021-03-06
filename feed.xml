@@ -3,7 +3,7 @@
     <title>Channelled Contact</title>
     <link href="http://channelled.contact/feed.xml" rel="self" />
     <link href="http://channelled.contact" />
-    <updated>2021-03-06T21:38:01+01:00</updated>
+    <updated>2021-03-06T21:39:54+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
@@ -159,23 +159,18 @@
         </content>
     </entry>
     <entry>
-        <title>Super Powers and Definitions? Hmm... interesting!</title>
+        <title>Ryok February Q&amp;A</title>
         <author>
             <name>Mark Ellul</name>
         </author>
-        <link href="http://channelled.contact/super-powers-and-definitions-hmm-interesting/"/>
-        <id>http://channelled.contact/super-powers-and-definitions-hmm-interesting/</id>
+        <link href="http://channelled.contact/ryok-february-qanda/"/>
+        <id>http://channelled.contact/ryok-february-qanda/</id>
 
-        <updated>2021-03-06T21:18:58+01:00</updated>
-            <summary>
-                <![CDATA[
-                    A fantastic message about how your definitions sculpt and mould your reality.
-                ]]>
-            </summary>
+        <updated>2021-03-06T21:39:54+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>A fantastic message about how your definitions sculpt and mould your reality.</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/n8FkWR8wx60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Obv7_CrX8N4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
