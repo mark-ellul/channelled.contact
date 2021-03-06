@@ -3,7 +3,7 @@
     <title>Channelled Contact</title>
     <link href="http://channelled.contact/feed.xml" rel="self" />
     <link href="http://channelled.contact" />
-    <updated>2021-03-06T21:29:16+01:00</updated>
+    <updated>2021-03-06T21:32:17+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
@@ -38,6 +38,22 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/j2TzZu-xnCc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Live Ryok Q and A with Akira</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/live-ryok-q-and-a-with-akira/"/>
+        <id>http://channelled.contact/live-ryok-q-and-a-with-akira/</id>
+
+        <updated>2021-03-06T21:32:17+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/9sIqy4YNrvs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

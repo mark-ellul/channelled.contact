@@ -36,6 +36,19 @@
             "date_modified": "2021-02-26T09:55:26+01:00"
         },
         {
+            "id": "http://channelled.contact/live-ryok-q-and-a-with-akira/",
+            "url": "http://channelled.contact/live-ryok-q-and-a-with-akira/",
+            "title": "Live Ryok Q and A with Akira",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9sIqy4YNrvs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Mark Ellul"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-25T21:32:00+01:00",
+            "date_modified": "2021-03-06T21:32:17+01:00"
+        },
+        {
             "id": "http://channelled.contact/reshaping-negativity/",
             "url": "http://channelled.contact/reshaping-negativity/",
             "title": "Reshaping Negativity",
