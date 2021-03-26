@@ -3,7 +3,7 @@
     <title>Channelled Contact</title>
     <link href="http://channelled.contact/feed.xml" rel="self" />
     <link href="http://channelled.contact" />
-    <updated>2021-03-26T16:45:09+01:00</updated>
+    <updated>2021-03-26T16:46:51+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
@@ -70,6 +70,22 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/rtYviy3MYCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact is NOW</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/contact-is-now/"/>
+        <id>http://channelled.contact/contact-is-now/</id>
+
+        <updated>2021-03-26T16:46:51+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/vulolWGwyHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -155,22 +171,6 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Kn_KBJkL370" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ryok Session - AI, Detox, Open Contact and Communing With your Guides</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/ryok-session-ai-detox-open-contact-and-communing-with-your-guides/"/>
-        <id>http://channelled.contact/ryok-session-ai-detox-open-contact-and-communing-with-your-guides/</id>
-
-        <updated>2021-03-06T21:36:16+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/SrLXf6r85Mc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

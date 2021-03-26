@@ -62,6 +62,19 @@
             "date_modified": "2021-03-04T18:07:17+01:00"
         },
         {
+            "id": "http://channelled.contact/contact-is-now/",
+            "url": "http://channelled.contact/contact-is-now/",
+            "title": "Contact is NOW",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vulolWGwyHc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Mark Ellul"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-02T16:44:00+01:00",
+            "date_modified": "2021-03-26T16:46:51+01:00"
+        },
+        {
             "id": "http://channelled.contact/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/",
             "url": "http://channelled.contact/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/",
             "title": "Feeling Guilty or Selfish by not Acting &amp; Hybrid Program",
@@ -126,19 +139,6 @@
             ],
             "date_published": "2021-02-18T22:48:07+01:00",
             "date_modified": "2021-02-18T22:49:21+01:00"
-        },
-        {
-            "id": "http://channelled.contact/ryok-session-ai-detox-open-contact-and-communing-with-your-guides/",
-            "url": "http://channelled.contact/ryok-session-ai-detox-open-contact-and-communing-with-your-guides/",
-            "title": "Ryok Session - AI, Detox, Open Contact and Communing With your Guides",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SrLXf6r85Mc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "Mark Ellul"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-02-14T21:36:00+01:00",
-            "date_modified": "2021-03-06T21:36:16+01:00"
         }
     ]
 }
