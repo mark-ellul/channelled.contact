@@ -3,12 +3,28 @@
     <title>Channelled Contact</title>
     <link href="http://channelled.contact/feed.xml" rel="self" />
     <link href="http://channelled.contact" />
-    <updated>2021-03-06T21:39:54+01:00</updated>
+    <updated>2021-03-26T16:45:09+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>http://channelled.contact</id>
 
+    <entry>
+        <title>The Frequency of Money</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/the-frequency-of-money/"/>
+        <id>http://channelled.contact/the-frequency-of-money/</id>
+
+        <updated>2021-03-26T16:44:25+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/wUxKCgP2Lyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Love Activations and Q&amp;A</title>
         <author>
@@ -22,6 +38,22 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ftKDoekFvt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Love Activations by Astoria from Pleiades</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/love-activations-by-astoria-from-pleiades/"/>
+        <id>http://channelled.contact/love-activations-by-astoria-from-pleiades/</id>
+
+        <updated>2021-03-26T16:45:09+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ftKDoekFvt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -139,38 +171,6 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/SrLXf6r85Mc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hylah talks about Channelling</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/hylah-talks-about-channelling/"/>
-        <id>http://channelled.contact/hylah-talks-about-channelling/</id>
-
-        <updated>2021-02-23T08:40:20+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/XlXAPi9t4NE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ryok February Q&amp;A</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/ryok-february-qanda/"/>
-        <id>http://channelled.contact/ryok-february-qanda/</id>
-
-        <updated>2021-03-06T21:39:54+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Obv7_CrX8N4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
