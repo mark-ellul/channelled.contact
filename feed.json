@@ -23,6 +23,32 @@
             "date_modified": "2021-03-26T16:44:25+01:00"
         },
         {
+            "id": "http://channelled.contact/the-loving-focus/",
+            "url": "http://channelled.contact/the-loving-focus/",
+            "title": "The Loving Focus",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Qy4a91WAbhk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Mark Ellul"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-18T16:44:00+01:00",
+            "date_modified": "2021-03-26T16:49:13+01:00"
+        },
+        {
+            "id": "http://channelled.contact/tales-from-future-earth/",
+            "url": "http://channelled.contact/tales-from-future-earth/",
+            "title": "Tales from Future Earth",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/z2aCYmMTUQE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Mark Ellul"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-17T16:52:00+01:00",
+            "date_modified": "2021-03-26T16:52:44+01:00"
+        },
+        {
             "id": "http://channelled.contact/love-activations-and-qanda/",
             "url": "http://channelled.contact/love-activations-and-qanda/",
             "title": "Love Activations and Q&amp;A",
@@ -112,33 +138,6 @@
             ],
             "date_published": "2021-02-22T21:16:03+01:00",
             "date_modified": "2021-02-22T21:16:15+01:00"
-        },
-        {
-            "id": "http://channelled.contact/purpose/",
-            "url": "http://channelled.contact/purpose/",
-            "title": "Purpose",
-            "summary": "The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. ",
-            "content_html": "<p class=\"align-center\">The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. </p>\n<p> </p>",
-            "author": {
-                "name": "Mark Ellul"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-02-18T23:00:21+01:00",
-            "date_modified": "2021-02-18T23:00:21+01:00"
-        },
-        {
-            "id": "http://channelled.contact/identifying-and-transforming-the-inner-critic-by-si-si/",
-            "url": "http://channelled.contact/identifying-and-transforming-the-inner-critic-by-si-si/",
-            "title": "Identifying and Transforming the Inner Critic by Si Si",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Kn_KBJkL370\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "Mark Ellul"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-02-18T22:48:07+01:00",
-            "date_modified": "2021-02-18T22:49:21+01:00"
         }
     ]
 }

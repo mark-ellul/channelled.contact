@@ -3,7 +3,7 @@
     <title>Channelled Contact</title>
     <link href="http://channelled.contact/feed.xml" rel="self" />
     <link href="http://channelled.contact" />
-    <updated>2021-03-26T16:46:51+01:00</updated>
+    <updated>2021-03-26T16:52:44+01:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
@@ -22,6 +22,38 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/wUxKCgP2Lyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Loving Focus</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/the-loving-focus/"/>
+        <id>http://channelled.contact/the-loving-focus/</id>
+
+        <updated>2021-03-26T16:49:13+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Qy4a91WAbhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tales from Future Earth</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/tales-from-future-earth/"/>
+        <id>http://channelled.contact/tales-from-future-earth/</id>
+
+        <updated>2021-03-26T16:52:44+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/z2aCYmMTUQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -134,43 +166,6 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/P1QB9r86vqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Purpose</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/purpose/"/>
-        <id>http://channelled.contact/purpose/</id>
-
-        <updated>2021-02-18T23:00:21+01:00</updated>
-            <summary>
-                <![CDATA[
-                    The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center">The Purpose of this page is to share channelled content from some fantastic channels. They all are sharing this content freely and have given this site permission to share their transmissions. </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Identifying and Transforming the Inner Critic by Si Si</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/identifying-and-transforming-the-inner-critic-by-si-si/"/>
-        <id>http://channelled.contact/identifying-and-transforming-the-inner-critic-by-si-si/</id>
-
-        <updated>2021-02-18T22:49:21+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Kn_KBJkL370" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
