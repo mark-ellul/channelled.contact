@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "http://channelled.contact/a-ryok-live-event-intr-into-the-eye-event-and-qanda/",
+            "url": "http://channelled.contact/a-ryok-live-event-intr-into-the-eye-event-and-qanda/",
+            "title": "A Ryok Live event intr. Into the Eye Event and  Q&amp;A ",
+            "summary": "A Fantastic download which introduces an upcoming Live event called \"Into the Eye\" which will be on the 26th of April 4pm EST, contact Tyler if you want a ticket to be there and possibly get to ask Ryok a question.",
+            "content_html": "<p>A Fantastic download which introduces an upcoming Live event called </p>\n<p>\"Into the Eye\" which will be on the 26th of April 4pm EST, contact Tyler if you</p>\n<p>want a ticket to be there and possibly get to ask Ryok a question.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gg68Aa0ZUKg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Mark Ellul"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-08T20:40:00+02:00",
+            "date_modified": "2021-04-11T20:40:07+02:00"
+        },
+        {
             "id": "http://channelled.contact/the-frequency-of-money/",
             "url": "http://channelled.contact/the-frequency-of-money/",
             "title": "The Frequency of Money",
@@ -125,19 +139,6 @@
             ],
             "date_published": "2021-02-25T21:32:00+01:00",
             "date_modified": "2021-03-06T21:32:17+01:00"
-        },
-        {
-            "id": "http://channelled.contact/reshaping-negativity/",
-            "url": "http://channelled.contact/reshaping-negativity/",
-            "title": "Reshaping Negativity",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/P1QB9r86vqA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "Mark Ellul"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-02-22T21:16:03+01:00",
-            "date_modified": "2021-02-22T21:16:15+01:00"
         }
     ]
 }
