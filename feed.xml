@@ -3,12 +3,44 @@
     <title>Channelled Contact</title>
     <link href="http://channelled.contact/feed.xml" rel="self" />
     <link href="http://channelled.contact" />
-    <updated>2021-04-11T20:40:07+02:00</updated>
+    <updated>2021-05-08T12:25:23+02:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>http://channelled.contact</id>
 
+    <entry>
+        <title>Disease, Congenital Disorders and also a bit on Autism</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/disease-congenital-disorders-and-also-a-bit-on-autism/"/>
+        <id>http://channelled.contact/disease-congenital-disorders-and-also-a-bit-on-autism/</id>
+
+        <updated>2021-05-08T12:18:22+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/PH1GREQSh5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tending to the Internal Garden </title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/tending-to-the-internal-garden/"/>
+        <id>http://channelled.contact/tending-to-the-internal-garden/</id>
+
+        <updated>2021-05-08T12:17:05+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/uyE1NR1g5bY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A Ryok Live event intr. Into the Eye Event and  Q&amp;A </title>
         <author>
@@ -29,6 +61,22 @@
 <p>"Into the Eye" which will be on the 26th of April 4pm EST, contact Tyler if you</p>
 <p>want a ticket to be there and possibly get to ask Ryok a question.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/gg68Aa0ZUKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dancing with Skeletons </title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/dancing-with-skeletons/"/>
+        <id>http://channelled.contact/dancing-with-skeletons/</id>
+
+        <updated>2021-05-08T12:25:23+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ats9z5dJ-j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -125,54 +173,6 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/rtYviy3MYCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact is NOW</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/contact-is-now/"/>
-        <id>http://channelled.contact/contact-is-now/</id>
-
-        <updated>2021-03-26T16:46:51+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/vulolWGwyHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Feeling Guilty or Selfish by not Acting &amp; Hybrid Program</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/"/>
-        <id>http://channelled.contact/feeling-guilty-or-selfish-by-not-acting-and-hybrid-program/</id>
-
-        <updated>2021-02-26T09:55:26+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/j2TzZu-xnCc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Live Ryok Q and A with Akira</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/live-ryok-q-and-a-with-akira/"/>
-        <id>http://channelled.contact/live-ryok-q-and-a-with-akira/</id>
-
-        <updated>2021-03-06T21:32:17+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/9sIqy4YNrvs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
