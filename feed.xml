@@ -3,12 +3,44 @@
     <title>Channelled Contact</title>
     <link href="http://channelled.contact/feed.xml" rel="self" />
     <link href="http://channelled.contact" />
-    <updated>2021-06-08T10:58:23+02:00</updated>
+    <updated>2021-06-11T17:06:51+02:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>http://channelled.contact</id>
 
+    <entry>
+        <title>Hopping out of the Comfort Zone</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/hopping-out-of-the-comfort-zone/"/>
+        <id>http://channelled.contact/hopping-out-of-the-comfort-zone/</id>
+
+        <updated>2021-06-11T17:03:26+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/zxQ6189mbGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Coming Back Together</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/coming-back-together/"/>
+        <id>http://channelled.contact/coming-back-together/</id>
+
+        <updated>2021-06-11T16:52:00+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/fjH126wAq94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>First Livestream with Hylah</title>
         <author>
@@ -22,6 +54,22 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Ilx0o_O_xZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ryok Live - &quot;Your Own UFO&quot;</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/ryok-live-your-own-ufo/"/>
+        <id>http://channelled.contact/ryok-live-your-own-ufo/</id>
+
+        <updated>2021-06-11T16:51:08+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/gWMvrvcCsTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -54,6 +102,22 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/uyE1NR1g5bY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ryok on Atlantis, Egypt and Stonehenge</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/ryok-on-atlantis-egypt-and-stonehenge/"/>
+        <id>http://channelled.contact/ryok-on-atlantis-egypt-and-stonehenge/</id>
+
+        <updated>2021-06-11T17:06:51+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/w6GeGOkmG2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -109,70 +173,6 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/wUxKCgP2Lyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Loving Focus</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/the-loving-focus/"/>
-        <id>http://channelled.contact/the-loving-focus/</id>
-
-        <updated>2021-03-26T16:49:13+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Qy4a91WAbhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tales from Future Earth</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/tales-from-future-earth/"/>
-        <id>http://channelled.contact/tales-from-future-earth/</id>
-
-        <updated>2021-03-26T16:52:44+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/z2aCYmMTUQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Love Activations and Q&amp;A</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/love-activations-and-qanda/"/>
-        <id>http://channelled.contact/love-activations-and-qanda/</id>
-
-        <updated>2021-03-06T21:38:01+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ftKDoekFvt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Love Activations by Astoria from Pleiades</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/love-activations-by-astoria-from-pleiades/"/>
-        <id>http://channelled.contact/love-activations-by-astoria-from-pleiades/</id>
-
-        <updated>2021-03-26T16:45:09+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ftKDoekFvt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
