@@ -3,28 +3,12 @@
     <title>Channelled Contact</title>
     <link href="http://channelled.contact/feed.xml" rel="self" />
     <link href="http://channelled.contact" />
-    <updated>2021-06-11T17:06:51+02:00</updated>
+    <updated>2021-06-11T17:08:09+02:00</updated>
     <author>
         <name>Mark Ellul</name>
     </author>
     <id>http://channelled.contact</id>
 
-    <entry>
-        <title>Hopping out of the Comfort Zone</title>
-        <author>
-            <name>Mark Ellul</name>
-        </author>
-        <link href="http://channelled.contact/hopping-out-of-the-comfort-zone/"/>
-        <id>http://channelled.contact/hopping-out-of-the-comfort-zone/</id>
-
-        <updated>2021-06-11T17:03:26+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/zxQ6189mbGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Coming Back Together</title>
         <author>
@@ -38,6 +22,22 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/fjH126wAq94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hopping out of the Comfort Zone</title>
+        <author>
+            <name>Mark Ellul</name>
+        </author>
+        <link href="http://channelled.contact/hopping-out-of-the-comfort-zone/"/>
+        <id>http://channelled.contact/hopping-out-of-the-comfort-zone/</id>
+
+        <updated>2021-06-11T17:08:09+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/zxQ6189mbGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
